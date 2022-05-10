@@ -10,6 +10,7 @@ Average Fare Per Driver:
   - Rural: $55.49
   - Suburban: $39.50
   - Urban: $16.57
+  
  ![chartmodule5.png](https://raw.githubusercontent.com/LaurenDebes/PyBer_Analysis/main/analysis/chartmodule5.png)
  
 **Pyber Summary:** Based on these results, I have three recommendations for addressing any disparities among the city types:
